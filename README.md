@@ -12,5 +12,5 @@ A lightweight, responsive web application built with vanilla HTML, CSS, and Java
 
 1. Clone the repository and navigate into it:
    bash
-   git clone [https://github.com/YOUR_USERNAME/movrec.git](https://github.com/YOUR_USERNAME/movrec.git)
+   git clone [https://github.com/sumeru-cmd/movrec.git](https://github.com/sumeru-cmd/movrec.git)
    cd movrec
